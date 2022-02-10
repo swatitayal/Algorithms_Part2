@@ -37,7 +37,7 @@ set(x,y) : inserts the value if the key x is not already present. If the cache r
 
 [YouTube link: Part 1](https://youtu.be/lVO4baL3nvY) 
 
-[YouTube link: Part 1](https://youtu.be/fbinfjOfP58) 
+[YouTube link: Part 2](https://youtu.be/fbinfjOfP58) 
 
 ---
 
